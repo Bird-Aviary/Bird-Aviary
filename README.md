@@ -12,7 +12,7 @@
 
 ---
 
-### 👑 &nbsp;My Magical Skills & Tools
+### 👑 &nbsp;My Skills & Tools
 
 **✨ Languages I Speak:**
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
