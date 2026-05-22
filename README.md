@@ -1,18 +1,4 @@
-<h1 align="center" style="font-size: 3.5em; color: #ff6eb4; font-weight: bold; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
-✨ Hi there 👋 I'm Bird-Aviary! ✨
-</h1>
-<p align="center" style="font-size: 1.5em; color: #d94b8a; margin-top: -10px;">
-🦄 Welcome to My Coding Universe! 🌈
-</p >
-
-<p align="center" style="background: linear-gradient(to right, #ffcce6, #ff99cc); padding: 15px; border-radius: 25px; border: 2px dashed #ff66b2;">
-<samp style="color: #8a2be2;">> 💖 A passionate & curious freshman majoring in Computer Science</samp><br>  
-<samp style="color: #8a2be2;">> 🌸 I'm currently learning everything I can get my hands on! </samp><br>
-</p >
-
----
-
-### 👑 &nbsp;My Skills & Tools
+### &nbsp;My Skills & Tools
 
 **✨ Languages I Speak:**
 ![Python](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=white)
@@ -28,20 +14,19 @@
 
 ---
 
-### 🎀 &nbsp;My Projects
+### &nbsp;My Projects
 
 | Project | Description | Tech |
 | :--- | :--- | :--- |
-| **[✨ PROJECT](链接)** | DESCRIPTION | `PYTHON` |
+| **[PROJECT](链接)** | DESCRIPTION | `PYTHON` |
 
 ---
 
-### 📊 &nbsp;My GitHub Stats
+### &nbsp;My GitHub Stats
 
 <div align="center">
   
-[![Bird-Aviary's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bird-Aviary&show_icons=true&title_color=ff6eb4&icon_color=ff99cc&text_color=8a2be2&bg_color=fff0f5&hide_border=true&border_radius=15px)](https://github.com/Bird-Aviary)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bird-Aviary&layout=compact&title_color=ff6eb4&icon_color=ff99cc&text_color=8a2be2&bg_color=fff0f5&hide_border=true&border_radius=15px)](https://github.com/Bird-Aviary)
+
 
 </div>
 
